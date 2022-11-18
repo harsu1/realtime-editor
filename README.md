@@ -1,3 +1,1 @@
-### Demo
-
-https://code-sync.codersgyan.com/
+### This app is real time  code editor end to end
